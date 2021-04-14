@@ -1,17 +1,4 @@
-#EXTM3U
-#EXTINF:0 tvg-id="avi" group-title="Videos",Nome do filme
-http://link do filme
-#EXTINF:0 tvg-id="avi" group-title="Videos",Nome do filme
-http://link do filme
-#EXTINF:0 tvg-id="avi" group-title="Videos",Nome do filme
-http://link do filme
-#EXTINF:0 tvg-id="avi" group-title="Videos",Nome do filme
-http://link do filme
-#EXTINF:0 tvg-id="avi" group-title="Videos",Nome do filme
-http://link do filme
-#EXTINF:0 tvg-id="avi" group-title="Videos",Nome do filme
-http://link do filme
-#EXTINF:0 tvg-id="avi" group-title="Videos",Nome do filme
-http://link do filme
-#EXTINF:0 tvg-id="avi" group-title="Videos",Nome do filme
-http://link do filme
+#EXTM3U size="Medium"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",VER TUDO
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_series/-1/
