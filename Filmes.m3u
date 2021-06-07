@@ -1,11 +1,26 @@
 #EXTM3U size="Medium"
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",LANÇAMENTOS 2021
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",VER TUDO
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/-1/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",4K
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/713/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND /  LANÇAMENTOS
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/639/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",LANÇAMENTOS 2020
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / 2020
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/145/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",LANÇAMENTOS
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / AÇÃO
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/701/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / ANIMAÇÃO
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/702/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / LANÇAMENTOS
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/716/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / LANÇAMENTOS
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/571/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES ANIMES
@@ -14,9 +29,6 @@ http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/573/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES DE ACAO
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/9/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES BRASILEIROS
-#EXTBG: #11609e
-http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/39/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES DE COMEDIA
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/10/
@@ -32,30 +44,54 @@ http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/113/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES DE FICCAO CIENTIFICA
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/25/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES  MARVEL & DC
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png", OND / MARVEL VS  DC
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/34/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES INFANTIS
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/40/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES DE FAROESTE
-#EXTBG: #11609e
-http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/35/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES RELIGIOSOS
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/36/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES DE ROMANCE
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/38/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES RETRO
-#EXTBG: #11609e
-http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/89/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES DE TERROR
-#EXTBG: #11609e
-http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/23/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES DE GUERRA
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/475/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES FAMILIA
 #EXTBG: #11609e
 http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/572/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / NACIONAIS
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/700/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / COMÉDIA
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/703/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / DOCUMENTÁRIO
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/704/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / FAROESTE
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/705/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / INFANTIL
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/706/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / ROMANCE
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/708/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / RELIGIOSOS
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/709/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / TERROR
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/710/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / SUSPENSE
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/711/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / FANTASIA & FICÇÃO
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/712/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",OND / DRAMA
+#EXTBG: #11609e
+http://cdn.koffice.site/ssiptv/get/3445332/3445332/list_movies/715/
